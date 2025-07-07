@@ -27,3 +27,11 @@ Este es un proyecto web que permite convertir entre diferentes divisas usando ta
    git clone https://github.com/tu-usuario/nombre-repo.git
 # divisas
 Trabajo de convertidor de divisas
+# Estructura del proyecto
+conversor-divisas/
+
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── video.mp4
